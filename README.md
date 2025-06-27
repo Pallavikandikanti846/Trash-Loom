@@ -26,14 +26,5 @@ Check out the live demo here: [TrashLoomRoom](https://pallavikandikanti846.githu
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-- Audio API for sound effects
 
----
 
-## How to Run Locally
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/yourusername/trashloop-room.git
-   cd trashloop-room
