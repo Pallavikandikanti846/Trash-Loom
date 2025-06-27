@@ -6,7 +6,8 @@ A fun interactive web page where users can drag and throw a crumpled paper ball 
 
 ## Demo
 
-[TrashLoomRoom](https://pallavikandikanti846.github.io/Trash-Loom/)
+Check out the live demo here: [TrashLoomRoom](https://pallavikandikanti846.github.io/Trash-Loom/)
+
 
 ---
 
